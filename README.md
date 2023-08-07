@@ -1,8 +1,18 @@
 Anonny Logger is a simple yet powerful tool that I have created to make it easy to get people to click on links. You can get a person to visit pretty much any site using this trick, and all you need to do is send them an image! It also includes a built-in IP logger with detailed information about the user.
 
-Please note that this is NOT a "one click" image logger. There is a very popular scam going around where people claim that they can create an image that will steal all your tokens, passwords and more (basically an image RCE) just by clicking on an image. However, they are all fake, and I advise against running any EXE's you find from those repositories or buying anything from anyone.
+
+
+
+
+
+Please note that this is NOT a "one click" image logger. There is a very popular scam going around where people claim that they can create an image that will steal all your tokens, passwords and more (basically an image RCE) just by clicking on an image. However, they are all fake, and I advise against running any EXE's you find from those repositories or buying anything from anyone
 
 If you're going to fork this repository, star it too while you're at it!
+
+
+
+
+
 
 💎 Features
 Fast, Free, and Easy!
@@ -10,6 +20,7 @@ Fast, Free, and Easy!
 Requires only clicking "Open Original"!
 Steals as much as possible, including your street address via GPS!
 Under active development, many new features will be added!
+
 
 
 
@@ -33,6 +44,8 @@ BUGGEDIMAGE: Display a loading image on Discord
 ANTIBOT: Prevent bots from spamming your webhook!
 REDIRECT: Redirect user?
 PAGE: Page to redirect to, if so
+
+
 
 
 
